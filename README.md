@@ -1,4 +1,4 @@
-# AI Projects
+# ML Projects
 Adding all of the projects related to predictive modeling and analysis
 
 ## Notebook Description
